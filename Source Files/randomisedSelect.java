@@ -33,7 +33,7 @@ public class randomisedSelect {
         return partition(array, start, end);
     }
 
-    public int randomisedSelect(int[] array, int start, int end, int ismallest)
+    public int randomisedSelection(int[] array, int start, int end, int ismallest)
     {
         if (start == end)
         {
@@ -47,11 +47,11 @@ public class randomisedSelect {
         }
         else if (ismallest < divider)
         {
-            return randomisedSelect(array, start, pivot - 1, ismallest);
+            return randomisedSelection(array, start, pivot - 1, ismallest);
         }
         else
         {
-            return randomisedSelect(array, pivot + 1, end, ismallest - divider);
+            return randomisedSelection(array, pivot + 1, end, ismallest - divider);
         }
     }
 }
