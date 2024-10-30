@@ -1,6 +1,7 @@
+package SourceFiles;
 import java.util.*;
 
-public class randomArrayGenerator {
+public class RandomArrayGenerator {
     private int length;
 
     private void setRandomArrayLength() {
