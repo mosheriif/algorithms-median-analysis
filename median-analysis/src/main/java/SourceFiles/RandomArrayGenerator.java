@@ -29,4 +29,25 @@ public class RandomArrayGenerator {
 
         return randomArray;
     }
+
+    public int[] generateArray(int inputLength) {
+        length = inputLength;
+        int[] randomArray = new int[length];
+
+        Set<Integer> distinctNumbers = new HashSet<>();
+        Random random = new Random();
+
+        while (distinctNumbers.size() < length) {
+            int randomNumber = 1 + random.nextInt(10000000);
+            distinctNumbers.add(randomNumber);
+        }
+
+        Integer[] temp = distinctNumbers.toArray(new Integer[0]);
+
+        for (int i = 0; i < length; i++){
+            randomArray[i] = temp[i];
+        }
+
+        return randomArray;
+    }
 }
