@@ -1,8 +1,8 @@
 package SourceFiles;
-import java.util.*;
+import java.util.Arrays;
 
 public class MedianOfMedians {
-    private int[] partitionSorter(int[] array, int start, int end)
+    private int[] partitionSorter(int[] array, int start)
     {
         int[] temp = new int[5];
         for (int i = 0; i < 5; i++)
@@ -10,10 +10,7 @@ public class MedianOfMedians {
             temp[i] = array[start + i];
         }
         Arrays.sort(temp);
-        for (int i = 0; i < 5; i++)
-        {
-            array[start + i] = temp[i];
-        }
+        System.arraycopy(temp, 0, array, start, 5);
         return array;
     }
     
@@ -35,7 +32,7 @@ public class MedianOfMedians {
         
         int numberOfGroups = (end - start + 1) / 5;
         for (int i = start; i <= end; i += 5) {
-            array = partitionSorter(array, i, i + 4);
+            array = partitionSorter(array, i);
         }
         
         int pivot = selection(array, start + (2 * numberOfGroups), start + (3 * numberOfGroups) - 1, (numberOfGroups + 1) / 2);
