@@ -41,18 +41,17 @@ public class RandomisedSelect {
             return array[start];
         }
         int pivot = randomisedPartition(array, start, end);
-        int divider = pivot - start + 1;
-        if (ismallest == divider)
+        if (ismallest == pivot)
         {
             return array[pivot];
         }
-        else if (ismallest < divider)
+        else if (ismallest < pivot)
         {
             return randomisedSelection(array, start, pivot - 1, ismallest);
         }
         else
         {
-            return randomisedSelection(array, pivot + 1, end, ismallest - divider);
+            return randomisedSelection(array, pivot + 1, end, ismallest);
         }
     }
 }
