@@ -1,5 +1,7 @@
 package SourceFiles;
-import java.util.*;
+import java.util.HashSet;
+import java.util.Random;
+import java.util.Set;
 
 public class RandomArrayGenerator {
     private int length;
@@ -17,7 +19,7 @@ public class RandomArrayGenerator {
         Random random = new Random();
 
         while (distinctNumbers.size() < length) {
-            int randomNumber = 1 + random.nextInt(10000000);
+            int randomNumber = 1 + random.nextInt(1000000000);
             distinctNumbers.add(randomNumber);
         }
 
@@ -38,7 +40,7 @@ public class RandomArrayGenerator {
         Random random = new Random();
 
         while (distinctNumbers.size() < length) {
-            int randomNumber = 1 + random.nextInt(10000000);
+            int randomNumber = 1 + random.nextInt(1000000000);
             distinctNumbers.add(randomNumber);
         }
 
