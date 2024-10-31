@@ -13,16 +13,22 @@ The purpose of this project is to study the time complexity and performance of d
 The repository contains the following files:
 
 ```plaintext
-├── src
-│   ├── RandomisedSelect.java       # Randomized Divide-and-Conquer implementation
-│   ├── MedianOfMedians.java        # Deterministic Median-of-Medians implementation
-│   ├── NaiveMedianFinder.java      # Sorting-based median finding (using native sort)
-│   ├── RandomArrayGenerator.java   # Utility for generating random test arrays
-│   ├── Partitioners.java           # Common partitioning logic for the algorithms
-│   ├── MedianAnalysisTest.java     # JUnit tests for all algorithms
-│   └── Main.java                   # Driver program for performance analysis
-├── README.md                       # Project documentation
-└── pom.xml                         # Maven build configuration
+algorithms-median-analysis
+├── median-analysis
+│   ├── pom.xml                         # Maven build configuration
+│   └── src
+│       ├── RandomisedSelect.java       # Randomized Divide-and-Conquer implementation 
+│       ├── MedianOfMedians.java        # Deterministic Median-of-Medians implementation
+│       ├── NaiveMedianFinder.java      # Sorting-based median finding (using native sort)
+│       ├── RandomArrayGenerator.java   # Utility for generating random test arrays
+│       ├── Partitioners.java           # Common partitioning logic for the algorithms
+│       ├── MedianAnalysisTest.java     # Performance test for all algorithms
+│       └── Main.java                   # Driver program for analysis
+├── results-and-deliverables
+│   ├── Report.pdf                      # Final report with analysis results
+│   ├── Output.xlsx                     # Output data from the analysis
+│   └── Raw Terminal Output.txt         # Raw output from terminal execution
+└── README.md                           # Project documentation
 ```
 
 ## Implementation Details
