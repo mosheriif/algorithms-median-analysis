@@ -1,0 +1,738 @@
+--------------------------------------[Arrays of size 10]--------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 387328666, time taken: 138 microseconds
+[Randmoised Selection] - Median: 387328666, time taken: 295 microseconds
+[Median of Medians] - Median: 387328666, time taken: 24 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 685567692, time taken: 2 microseconds
+[Randmoised Selection] - Median: 685567692, time taken: 22 microseconds
+[Median of Medians] - Median: 685567692, time taken: 6 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 285096869, time taken: 2 microseconds
+[Randmoised Selection] - Median: 285096869, time taken: 9 microseconds
+[Median of Medians] - Median: 285096869, time taken: 23 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 537617795, time taken: 1 microseconds
+[Randmoised Selection] - Median: 537617795, time taken: 8 microseconds
+[Median of Medians] - Median: 537617795, time taken: 7 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 374359037, time taken: 2 microseconds
+[Randmoised Selection] - Median: 374359037, time taken: 8 microseconds
+[Median of Medians] - Median: 374359037, time taken: 6 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 503270870, time taken: 2 microseconds
+[Randmoised Selection] - Median: 503270870, time taken: 13 microseconds
+[Median of Medians] - Median: 503270870, time taken: 5 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 549007239, time taken: 1 microseconds
+[Randmoised Selection] - Median: 549007239, time taken: 9 microseconds
+[Median of Medians] - Median: 549007239, time taken: 4 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 606123241, time taken: 2 microseconds
+[Randmoised Selection] - Median: 606123241, time taken: 11 microseconds
+[Median of Medians] - Median: 606123241, time taken: 4 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 591380891, time taken: 1 microseconds
+[Randmoised Selection] - Median: 591380891, time taken: 4 microseconds
+[Median of Medians] - Median: 591380891, time taken: 4 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 480249870, time taken: 1 microseconds
+[Randmoised Selection] - Median: 480249870, time taken: 7 microseconds
+[Median of Medians] - Median: 480249870, time taken: 4 microseconds
+--------------------------------------[Arrays of size 20]--------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 442984600, time taken: 3 microseconds
+[Randmoised Selection] - Median: 442984600, time taken: 12 microseconds
+[Median of Medians] - Median: 442984600, time taken: 7 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 293419151, time taken: 3 microseconds
+[Randmoised Selection] - Median: 293419151, time taken: 5 microseconds
+[Median of Medians] - Median: 293419151, time taken: 5 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 652773776, time taken: 3 microseconds
+[Randmoised Selection] - Median: 652773776, time taken: 8 microseconds
+[Median of Medians] - Median: 652773776, time taken: 10 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 413665282, time taken: 4 microseconds
+[Randmoised Selection] - Median: 413665282, time taken: 9 microseconds
+[Median of Medians] - Median: 413665282, time taken: 10 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 355513952, time taken: 3 microseconds
+[Randmoised Selection] - Median: 355513952, time taken: 16 microseconds
+[Median of Medians] - Median: 355513952, time taken: 9 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 403738860, time taken: 12 microseconds
+[Randmoised Selection] - Median: 403738860, time taken: 9 microseconds
+[Median of Medians] - Median: 403738860, time taken: 10 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 445884319, time taken: 4 microseconds
+[Randmoised Selection] - Median: 445884319, time taken: 6 microseconds
+[Median of Medians] - Median: 445884319, time taken: 7 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 433761872, time taken: 1070 microseconds
+[Randmoised Selection] - Median: 433761872, time taken: 7 microseconds
+[Median of Medians] - Median: 433761872, time taken: 8 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 553179142, time taken: 3 microseconds
+[Randmoised Selection] - Median: 553179142, time taken: 10 microseconds
+[Median of Medians] - Median: 553179142, time taken: 6 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 513580727, time taken: 3 microseconds
+[Randmoised Selection] - Median: 513580727, time taken: 6 microseconds
+[Median of Medians] - Median: 513580727, time taken: 5 microseconds
+--------------------------------------[Arrays of size 50]--------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 535303484, time taken: 10 microseconds
+[Randmoised Selection] - Median: 535303484, time taken: 10 microseconds
+[Median of Medians] - Median: 535303484, time taken: 25 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 382205492, time taken: 11 microseconds
+[Randmoised Selection] - Median: 382205492, time taken: 7 microseconds
+[Median of Medians] - Median: 382205492, time taken: 13 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 608709523, time taken: 9 microseconds
+[Randmoised Selection] - Median: 608709523, time taken: 15 microseconds
+[Median of Medians] - Median: 608709523, time taken: 14 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 513826595, time taken: 35 microseconds
+[Randmoised Selection] - Median: 513826595, time taken: 8 microseconds
+[Median of Medians] - Median: 513826595, time taken: 16 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 435324872, time taken: 56 microseconds
+[Randmoised Selection] - Median: 435324872, time taken: 15 microseconds
+[Median of Medians] - Median: 435324872, time taken: 15 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 516902743, time taken: 4 microseconds
+[Randmoised Selection] - Median: 516902743, time taken: 15 microseconds
+[Median of Medians] - Median: 516902743, time taken: 32 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 568496819, time taken: 4 microseconds
+[Randmoised Selection] - Median: 568496819, time taken: 43 microseconds
+[Median of Medians] - Median: 568496819, time taken: 82 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 431365767, time taken: 4 microseconds
+[Randmoised Selection] - Median: 431365767, time taken: 28 microseconds
+[Median of Medians] - Median: 431365767, time taken: 38 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 559721890, time taken: 3 microseconds
+[Randmoised Selection] - Median: 559721890, time taken: 15 microseconds
+[Median of Medians] - Median: 559721890, time taken: 10 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 481865947, time taken: 4 microseconds
+[Randmoised Selection] - Median: 481865947, time taken: 18 microseconds
+[Median of Medians] - Median: 481865947, time taken: 10 microseconds
+--------------------------------------[Arrays of size 100]--------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 567149282, time taken: 6 microseconds
+[Randmoised Selection] - Median: 567149282, time taken: 9 microseconds
+[Median of Medians] - Median: 567149282, time taken: 24 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 561010993, time taken: 5 microseconds
+[Randmoised Selection] - Median: 561010993, time taken: 65 microseconds
+[Median of Medians] - Median: 561010993, time taken: 34 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 536374346, time taken: 6 microseconds
+[Randmoised Selection] - Median: 536374346, time taken: 28 microseconds
+[Median of Medians] - Median: 536374346, time taken: 14 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 482884546, time taken: 13 microseconds
+[Randmoised Selection] - Median: 482884546, time taken: 20 microseconds
+[Median of Medians] - Median: 482884546, time taken: 19 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 457093201, time taken: 7 microseconds
+[Randmoised Selection] - Median: 457093201, time taken: 13 microseconds
+[Median of Medians] - Median: 457093201, time taken: 8 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 503141563, time taken: 5 microseconds
+[Randmoised Selection] - Median: 503141563, time taken: 14 microseconds
+[Median of Medians] - Median: 503141563, time taken: 13 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 464282552, time taken: 11 microseconds
+[Randmoised Selection] - Median: 464282552, time taken: 14 microseconds
+[Median of Medians] - Median: 464282552, time taken: 36 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 503099091, time taken: 5 microseconds
+[Randmoised Selection] - Median: 503099091, time taken: 9 microseconds
+[Median of Medians] - Median: 503099091, time taken: 38 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 485080691, time taken: 4 microseconds
+[Randmoised Selection] - Median: 485080691, time taken: 16 microseconds
+[Median of Medians] - Median: 485080691, time taken: 7 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 451724916, time taken: 5 microseconds
+[Randmoised Selection] - Median: 451724916, time taken: 22 microseconds
+[Median of Medians] - Median: 451724916, time taken: 9 microseconds
+--------------------------------------[Arrays of size 250]--------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 523990030, time taken: 21 microseconds
+[Randmoised Selection] - Median: 523990030, time taken: 14 microseconds
+[Median of Medians] - Median: 523990030, time taken: 27 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 439236774, time taken: 18 microseconds
+[Randmoised Selection] - Median: 439236774, time taken: 19 microseconds
+[Median of Medians] - Median: 439236774, time taken: 15 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 538003654, time taken: 67 microseconds
+[Randmoised Selection] - Median: 538003654, time taken: 24 microseconds
+[Median of Medians] - Median: 538003654, time taken: 9 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 541265340, time taken: 48 microseconds
+[Randmoised Selection] - Median: 541265340, time taken: 7 microseconds
+[Median of Medians] - Median: 541265340, time taken: 17 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 451275150, time taken: 11 microseconds
+[Randmoised Selection] - Median: 451275150, time taken: 9 microseconds
+[Median of Medians] - Median: 451275150, time taken: 8 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 475969158, time taken: 16 microseconds
+[Randmoised Selection] - Median: 475969158, time taken: 36 microseconds
+[Median of Medians] - Median: 475969158, time taken: 10 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 474950231, time taken: 17 microseconds
+[Randmoised Selection] - Median: 474950231, time taken: 5 microseconds
+[Median of Medians] - Median: 474950231, time taken: 15 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 480183366, time taken: 16 microseconds
+[Randmoised Selection] - Median: 480183366, time taken: 7 microseconds
+[Median of Medians] - Median: 480183366, time taken: 12 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 537650337, time taken: 12 microseconds
+[Randmoised Selection] - Median: 537650337, time taken: 4 microseconds
+[Median of Medians] - Median: 537650337, time taken: 6 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 491577026, time taken: 29 microseconds
+[Randmoised Selection] - Median: 491577026, time taken: 7 microseconds
+[Median of Medians] - Median: 491577026, time taken: 10 microseconds
+--------------------------------------[Arrays of size 500]--------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 479448941, time taken: 31 microseconds
+[Randmoised Selection] - Median: 479448941, time taken: 12 microseconds
+[Median of Medians] - Median: 479448941, time taken: 29 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 534749802, time taken: 37 microseconds
+[Randmoised Selection] - Median: 534749802, time taken: 11 microseconds
+[Median of Medians] - Median: 534749802, time taken: 62 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 511233210, time taken: 33 microseconds
+[Randmoised Selection] - Median: 511233210, time taken: 9 microseconds
+[Median of Medians] - Median: 511233210, time taken: 25 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 519323525, time taken: 31 microseconds
+[Randmoised Selection] - Median: 519323525, time taken: 18 microseconds
+[Median of Medians] - Median: 519323525, time taken: 14 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 488645852, time taken: 36 microseconds
+[Randmoised Selection] - Median: 488645852, time taken: 6 microseconds
+[Median of Medians] - Median: 488645852, time taken: 14 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 498105921, time taken: 35 microseconds
+[Randmoised Selection] - Median: 498105921, time taken: 18 microseconds
+[Median of Medians] - Median: 498105921, time taken: 22 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 505551470, time taken: 26 microseconds
+[Randmoised Selection] - Median: 505551470, time taken: 21 microseconds
+[Median of Medians] - Median: 505551470, time taken: 13 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 509096605, time taken: 39 microseconds
+[Randmoised Selection] - Median: 509096605, time taken: 3 microseconds
+[Median of Medians] - Median: 509096605, time taken: 36 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 509280505, time taken: 43 microseconds
+[Randmoised Selection] - Median: 509280505, time taken: 12 microseconds
+[Median of Medians] - Median: 509280505, time taken: 13 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 480639845, time taken: 46 microseconds
+[Randmoised Selection] - Median: 480639845, time taken: 7 microseconds
+[Median of Medians] - Median: 480639845, time taken: 44 microseconds
+--------------------------------------[Arrays of size 750]--------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 517029983, time taken: 63 microseconds
+[Randmoised Selection] - Median: 517029983, time taken: 12 microseconds
+[Median of Medians] - Median: 517029983, time taken: 17 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 465403947, time taken: 40 microseconds
+[Randmoised Selection] - Median: 465403947, time taken: 9 microseconds
+[Median of Medians] - Median: 465403947, time taken: 16 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 467223581, time taken: 55 microseconds
+[Randmoised Selection] - Median: 467223581, time taken: 14 microseconds
+[Median of Medians] - Median: 467223581, time taken: 33 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 535696602, time taken: 59 microseconds
+[Randmoised Selection] - Median: 535696602, time taken: 12 microseconds
+[Median of Medians] - Median: 535696602, time taken: 34 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 498697951, time taken: 44 microseconds
+[Randmoised Selection] - Median: 498697951, time taken: 27 microseconds
+[Median of Medians] - Median: 498697951, time taken: 13 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 536245614, time taken: 38 microseconds
+[Randmoised Selection] - Median: 536245614, time taken: 4 microseconds
+[Median of Medians] - Median: 536245614, time taken: 30 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 486442639, time taken: 80 microseconds
+[Randmoised Selection] - Median: 486442639, time taken: 8 microseconds
+[Median of Medians] - Median: 486442639, time taken: 72 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 524657328, time taken: 170 microseconds
+[Randmoised Selection] - Median: 524657328, time taken: 7 microseconds
+[Median of Medians] - Median: 524657328, time taken: 58 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 509565307, time taken: 149 microseconds
+[Randmoised Selection] - Median: 509565307, time taken: 39 microseconds
+[Median of Medians] - Median: 509565307, time taken: 47 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 475352442, time taken: 135 microseconds
+[Randmoised Selection] - Median: 475352442, time taken: 8 microseconds
+[Median of Medians] - Median: 475352442, time taken: 44 microseconds
+--------------------------------------[Arrays of size 1000]--------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 488833003, time taken: 191 microseconds
+[Randmoised Selection] - Median: 488833003, time taken: 15 microseconds
+[Median of Medians] - Median: 488833003, time taken: 63 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 474858533, time taken: 291 microseconds
+[Randmoised Selection] - Median: 474858533, time taken: 5 microseconds
+[Median of Medians] - Median: 474858533, time taken: 75 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 508291705, time taken: 308 microseconds
+[Randmoised Selection] - Median: 508291705, time taken: 5 microseconds
+[Median of Medians] - Median: 508291705, time taken: 69 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 526253241, time taken: 216 microseconds
+[Randmoised Selection] - Median: 526253241, time taken: 8 microseconds
+[Median of Medians] - Median: 526253241, time taken: 63 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 494824775, time taken: 198 microseconds
+[Randmoised Selection] - Median: 494824775, time taken: 7 microseconds
+[Median of Medians] - Median: 494824775, time taken: 112 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 512200945, time taken: 199 microseconds
+[Randmoised Selection] - Median: 512200945, time taken: 5 microseconds
+[Median of Medians] - Median: 512200945, time taken: 75 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 516110171, time taken: 192 microseconds
+[Randmoised Selection] - Median: 516110171, time taken: 3 microseconds
+[Median of Medians] - Median: 516110171, time taken: 78 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 498906025, time taken: 302 microseconds
+[Randmoised Selection] - Median: 498906025, time taken: 4 microseconds
+[Median of Medians] - Median: 498906025, time taken: 108 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 480422840, time taken: 300 microseconds
+[Randmoised Selection] - Median: 480422840, time taken: 4 microseconds
+[Median of Medians] - Median: 480422840, time taken: 64 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 527210133, time taken: 301 microseconds
+[Randmoised Selection] - Median: 527210133, time taken: 12 microseconds
+[Median of Medians] - Median: 527210133, time taken: 110 microseconds
+--------------------------------------[Arrays of size 2500]--------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499555884, time taken: 504 microseconds
+[Randmoised Selection] - Median: 499555884, time taken: 10 microseconds
+[Median of Medians] - Median: 499555884, time taken: 188 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 507774175, time taken: 516 microseconds
+[Randmoised Selection] - Median: 507774175, time taken: 6 microseconds
+[Median of Medians] - Median: 507774175, time taken: 161 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499273178, time taken: 485 microseconds
+[Randmoised Selection] - Median: 499273178, time taken: 5 microseconds
+[Median of Medians] - Median: 499273178, time taken: 143 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 507020274, time taken: 513 microseconds
+[Randmoised Selection] - Median: 507020274, time taken: 5 microseconds
+[Median of Medians] - Median: 507020274, time taken: 152 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 492480744, time taken: 489 microseconds
+[Randmoised Selection] - Median: 492480744, time taken: 8 microseconds
+[Median of Medians] - Median: 492480744, time taken: 265 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 502685610, time taken: 484 microseconds
+[Randmoised Selection] - Median: 502685610, time taken: 19 microseconds
+[Median of Medians] - Median: 502685610, time taken: 150 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 502333716, time taken: 480 microseconds
+[Randmoised Selection] - Median: 502333716, time taken: 9 microseconds
+[Median of Medians] - Median: 502333716, time taken: 145 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 493770248, time taken: 539 microseconds
+[Randmoised Selection] - Median: 493770248, time taken: 6 microseconds
+[Median of Medians] - Median: 493770248, time taken: 149 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500682497, time taken: 479 microseconds
+[Randmoised Selection] - Median: 500682497, time taken: 3 microseconds
+[Median of Medians] - Median: 500682497, time taken: 145 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 492485100, time taken: 757 microseconds
+[Randmoised Selection] - Median: 492485100, time taken: 12 microseconds
+[Median of Medians] - Median: 492485100, time taken: 251 microseconds
+--------------------------------------[Arrays of size 5000]--------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 503622612, time taken: 304 microseconds
+[Randmoised Selection] - Median: 503622612, time taken: 9 microseconds
+[Median of Medians] - Median: 503622612, time taken: 55 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500987051, time taken: 257 microseconds
+[Randmoised Selection] - Median: 500987051, time taken: 15 microseconds
+[Median of Medians] - Median: 500987051, time taken: 54 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 515542062, time taken: 228 microseconds
+[Randmoised Selection] - Median: 515542062, time taken: 9 microseconds
+[Median of Medians] - Median: 515542062, time taken: 64 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 496208824, time taken: 214 microseconds
+[Randmoised Selection] - Median: 496208824, time taken: 8 microseconds
+[Median of Medians] - Median: 496208824, time taken: 50 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 508972919, time taken: 268 microseconds
+[Randmoised Selection] - Median: 508972919, time taken: 10 microseconds
+[Median of Medians] - Median: 508972919, time taken: 99 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500141274, time taken: 227 microseconds
+[Randmoised Selection] - Median: 500141274, time taken: 17 microseconds
+[Median of Medians] - Median: 500141274, time taken: 58 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 505923087, time taken: 217 microseconds
+[Randmoised Selection] - Median: 505923087, time taken: 9 microseconds
+[Median of Medians] - Median: 505923087, time taken: 103 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 491034381, time taken: 267 microseconds
+[Randmoised Selection] - Median: 491034381, time taken: 16 microseconds
+[Median of Medians] - Median: 491034381, time taken: 105 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 504634966, time taken: 229 microseconds
+[Randmoised Selection] - Median: 504634966, time taken: 14 microseconds
+[Median of Medians] - Median: 504634966, time taken: 52 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 494057013, time taken: 236 microseconds
+[Randmoised Selection] - Median: 494057013, time taken: 9 microseconds
+[Median of Medians] - Median: 494057013, time taken: 113 microseconds
+--------------------------------------[Arrays of size 7500]--------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 495677152, time taken: 370 microseconds
+[Randmoised Selection] - Median: 495677152, time taken: 13 microseconds
+[Median of Medians] - Median: 495677152, time taken: 180 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 512702121, time taken: 378 microseconds
+[Randmoised Selection] - Median: 512702121, time taken: 12 microseconds
+[Median of Medians] - Median: 512702121, time taken: 90 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 501582305, time taken: 360 microseconds
+[Randmoised Selection] - Median: 501582305, time taken: 16 microseconds
+[Median of Medians] - Median: 501582305, time taken: 158 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 503928871, time taken: 357 microseconds
+[Randmoised Selection] - Median: 503928871, time taken: 35 microseconds
+[Median of Medians] - Median: 503928871, time taken: 116 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499011139, time taken: 347 microseconds
+[Randmoised Selection] - Median: 499011139, time taken: 17 microseconds
+[Median of Medians] - Median: 499011139, time taken: 78 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 504130971, time taken: 336 microseconds
+[Randmoised Selection] - Median: 504130971, time taken: 9 microseconds
+[Median of Medians] - Median: 504130971, time taken: 115 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 495512505, time taken: 322 microseconds
+[Randmoised Selection] - Median: 495512505, time taken: 8 microseconds
+[Median of Medians] - Median: 495512505, time taken: 73 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 504841907, time taken: 327 microseconds
+[Randmoised Selection] - Median: 504841907, time taken: 13 microseconds
+[Median of Medians] - Median: 504841907, time taken: 123 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 495065733, time taken: 306 microseconds
+[Randmoised Selection] - Median: 495065733, time taken: 12 microseconds
+[Median of Medians] - Median: 495065733, time taken: 159 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 506415885, time taken: 319 microseconds
+[Randmoised Selection] - Median: 506415885, time taken: 12 microseconds
+[Median of Medians] - Median: 506415885, time taken: 165 microseconds
+--------------------------------------[Arrays of size 10000]--------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500602357, time taken: 479 microseconds
+[Randmoised Selection] - Median: 500602357, time taken: 10 microseconds
+[Median of Medians] - Median: 500602357, time taken: 143 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 501052121, time taken: 431 microseconds
+[Randmoised Selection] - Median: 501052121, time taken: 15 microseconds
+[Median of Medians] - Median: 501052121, time taken: 155 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 496206769, time taken: 432 microseconds
+[Randmoised Selection] - Median: 496206769, time taken: 17 microseconds
+[Median of Medians] - Median: 496206769, time taken: 235 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 503609177, time taken: 499 microseconds
+[Randmoised Selection] - Median: 503609177, time taken: 13 microseconds
+[Median of Medians] - Median: 503609177, time taken: 141 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 503773878, time taken: 435 microseconds
+[Randmoised Selection] - Median: 503773878, time taken: 20 microseconds
+[Median of Medians] - Median: 503773878, time taken: 149 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 502373531, time taken: 427 microseconds
+[Randmoised Selection] - Median: 502373531, time taken: 22 microseconds
+[Median of Medians] - Median: 502373531, time taken: 138 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 505752903, time taken: 424 microseconds
+[Randmoised Selection] - Median: 505752903, time taken: 13 microseconds
+[Median of Medians] - Median: 505752903, time taken: 136 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 493325359, time taken: 435 microseconds
+[Randmoised Selection] - Median: 493325359, time taken: 28 microseconds
+[Median of Medians] - Median: 493325359, time taken: 190 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 494017503, time taken: 455 microseconds
+[Randmoised Selection] - Median: 494017503, time taken: 14 microseconds
+[Median of Medians] - Median: 494017503, time taken: 136 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 501124271, time taken: 424 microseconds
+[Randmoised Selection] - Median: 501124271, time taken: 19 microseconds
+[Median of Medians] - Median: 501124271, time taken: 114 microseconds
+--------------------------------------[Arrays of size 50000]--------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500459020, time taken: 2597 microseconds
+[Randmoised Selection] - Median: 500459020, time taken: 74 microseconds
+[Median of Medians] - Median: 500459020, time taken: 454 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 498796270, time taken: 2554 microseconds
+[Randmoised Selection] - Median: 498796270, time taken: 90 microseconds
+[Median of Medians] - Median: 498796270, time taken: 435 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 498209819, time taken: 2482 microseconds
+[Randmoised Selection] - Median: 498209819, time taken: 48 microseconds
+[Median of Medians] - Median: 498209819, time taken: 434 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 497685873, time taken: 2442 microseconds
+[Randmoised Selection] - Median: 497685873, time taken: 51 microseconds
+[Median of Medians] - Median: 497685873, time taken: 420 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 496962059, time taken: 2410 microseconds
+[Randmoised Selection] - Median: 496962059, time taken: 117 microseconds
+[Median of Medians] - Median: 496962059, time taken: 441 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 502747040, time taken: 2487 microseconds
+[Randmoised Selection] - Median: 502747040, time taken: 52 microseconds
+[Median of Medians] - Median: 502747040, time taken: 438 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499565779, time taken: 2654 microseconds
+[Randmoised Selection] - Median: 499565779, time taken: 52 microseconds
+[Median of Medians] - Median: 499565779, time taken: 453 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 496812675, time taken: 2503 microseconds
+[Randmoised Selection] - Median: 496812675, time taken: 95 microseconds
+[Median of Medians] - Median: 496812675, time taken: 419 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 501577744, time taken: 2522 microseconds
+[Randmoised Selection] - Median: 501577744, time taken: 91 microseconds
+[Median of Medians] - Median: 501577744, time taken: 471 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 494581828, time taken: 2371 microseconds
+[Randmoised Selection] - Median: 494581828, time taken: 62 microseconds
+[Median of Medians] - Median: 494581828, time taken: 268 microseconds
+--------------------------------------[Arrays of size 100000]--------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 503779457, time taken: 5109 microseconds
+[Randmoised Selection] - Median: 503779457, time taken: 95 microseconds
+[Median of Medians] - Median: 503779457, time taken: 523 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 498704379, time taken: 5163 microseconds
+[Randmoised Selection] - Median: 498704379, time taken: 306 microseconds
+[Median of Medians] - Median: 498704379, time taken: 573 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 502095024, time taken: 4962 microseconds
+[Randmoised Selection] - Median: 502095024, time taken: 89 microseconds
+[Median of Medians] - Median: 502095024, time taken: 574 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499553212, time taken: 5634 microseconds
+[Randmoised Selection] - Median: 499553212, time taken: 81 microseconds
+[Median of Medians] - Median: 499553212, time taken: 537 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499879632, time taken: 5203 microseconds
+[Randmoised Selection] - Median: 499879632, time taken: 158 microseconds
+[Median of Medians] - Median: 499879632, time taken: 480 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500401377, time taken: 4914 microseconds
+[Randmoised Selection] - Median: 500401377, time taken: 216 microseconds
+[Median of Medians] - Median: 500401377, time taken: 534 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 498124415, time taken: 5115 microseconds
+[Randmoised Selection] - Median: 498124415, time taken: 82 microseconds
+[Median of Medians] - Median: 498124415, time taken: 554 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500384256, time taken: 5384 microseconds
+[Randmoised Selection] - Median: 500384256, time taken: 92 microseconds
+[Median of Medians] - Median: 500384256, time taken: 505 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 498919902, time taken: 5129 microseconds
+[Randmoised Selection] - Median: 498919902, time taken: 97 microseconds
+[Median of Medians] - Median: 498919902, time taken: 525 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499827978, time taken: 5155 microseconds
+[Randmoised Selection] - Median: 499827978, time taken: 109 microseconds
+[Median of Medians] - Median: 499827978, time taken: 497 microseconds
+--------------------------------------[Arrays of size 500000]--------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 501762491, time taken: 29954 microseconds
+[Randmoised Selection] - Median: 501762491, time taken: 463 microseconds
+[Median of Medians] - Median: 501762491, time taken: 2439 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499839399, time taken: 30181 microseconds
+[Randmoised Selection] - Median: 499839399, time taken: 658 microseconds
+[Median of Medians] - Median: 499839399, time taken: 2518 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499183448, time taken: 28007 microseconds
+[Randmoised Selection] - Median: 499183448, time taken: 922 microseconds
+[Median of Medians] - Median: 499183448, time taken: 2569 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 501213245, time taken: 29377 microseconds
+[Randmoised Selection] - Median: 501213245, time taken: 758 microseconds
+[Median of Medians] - Median: 501213245, time taken: 2634 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500681820, time taken: 28390 microseconds
+[Randmoised Selection] - Median: 500681820, time taken: 568 microseconds
+[Median of Medians] - Median: 500681820, time taken: 4451 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500905224, time taken: 30684 microseconds
+[Randmoised Selection] - Median: 500905224, time taken: 413 microseconds
+[Median of Medians] - Median: 500905224, time taken: 2501 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499651268, time taken: 28765 microseconds
+[Randmoised Selection] - Median: 499651268, time taken: 471 microseconds
+[Median of Medians] - Median: 499651268, time taken: 2492 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499357273, time taken: 28468 microseconds
+[Randmoised Selection] - Median: 499357273, time taken: 656 microseconds
+[Median of Medians] - Median: 499357273, time taken: 2808 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500821971, time taken: 28862 microseconds
+[Randmoised Selection] - Median: 500821971, time taken: 951 microseconds
+[Median of Medians] - Median: 500821971, time taken: 2693 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500821732, time taken: 28845 microseconds
+[Randmoised Selection] - Median: 500821732, time taken: 384 microseconds
+[Median of Medians] - Median: 500821732, time taken: 2459 microseconds
+--------------------------------------[Arrays of size 1000000]--------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499733864, time taken: 63724 microseconds
+[Randmoised Selection] - Median: 499733864, time taken: 1396 microseconds
+[Median of Medians] - Median: 499733864, time taken: 7619 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499544475, time taken: 61310 microseconds
+[Randmoised Selection] - Median: 499544475, time taken: 1228 microseconds
+[Median of Medians] - Median: 499544475, time taken: 8125 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500501655, time taken: 59943 microseconds
+[Randmoised Selection] - Median: 500501655, time taken: 1764 microseconds
+[Median of Medians] - Median: 500501655, time taken: 4827 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499657884, time taken: 59704 microseconds
+[Randmoised Selection] - Median: 499657884, time taken: 1064 microseconds
+[Median of Medians] - Median: 499657884, time taken: 4900 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499855170, time taken: 62138 microseconds
+[Randmoised Selection] - Median: 499855170, time taken: 1764 microseconds
+[Median of Medians] - Median: 499855170, time taken: 4926 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500168512, time taken: 60103 microseconds
+[Randmoised Selection] - Median: 500168512, time taken: 1422 microseconds
+[Median of Medians] - Median: 500168512, time taken: 5127 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500384186, time taken: 61028 microseconds
+[Randmoised Selection] - Median: 500384186, time taken: 1425 microseconds
+[Median of Medians] - Median: 500384186, time taken: 4910 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500169488, time taken: 61252 microseconds
+[Randmoised Selection] - Median: 500169488, time taken: 904 microseconds
+[Median of Medians] - Median: 500169488, time taken: 4983 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500173082, time taken: 60401 microseconds
+[Randmoised Selection] - Median: 500173082, time taken: 1086 microseconds
+[Median of Medians] - Median: 500173082, time taken: 9074 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500493914, time taken: 61628 microseconds
+[Randmoised Selection] - Median: 500493914, time taken: 1669 microseconds
+[Median of Medians] - Median: 500493914, time taken: 8940 microseconds
+--------------------------------------[Arrays of size 5000000]--------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499721437, time taken: 326424 microseconds
+[Randmoised Selection] - Median: 499721437, time taken: 7551 microseconds
+[Median of Medians] - Median: 499721437, time taken: 27042 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500196196, time taken: 321916 microseconds
+[Randmoised Selection] - Median: 500196196, time taken: 3892 microseconds
+[Median of Medians] - Median: 500196196, time taken: 27385 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500462782, time taken: 325726 microseconds
+[Randmoised Selection] - Median: 500462782, time taken: 7291 microseconds
+[Median of Medians] - Median: 500462782, time taken: 45044 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500229451, time taken: 337091 microseconds
+[Randmoised Selection] - Median: 500229451, time taken: 7068 microseconds
+[Median of Medians] - Median: 500229451, time taken: 28589 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500279537, time taken: 333976 microseconds
+[Randmoised Selection] - Median: 500279537, time taken: 5475 microseconds
+[Median of Medians] - Median: 500279537, time taken: 27139 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500065977, time taken: 332988 microseconds
+[Randmoised Selection] - Median: 500065977, time taken: 9133 microseconds
+[Median of Medians] - Median: 500065977, time taken: 27439 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499691221, time taken: 329383 microseconds
+[Randmoised Selection] - Median: 499691221, time taken: 5256 microseconds
+[Median of Medians] - Median: 499691221, time taken: 116842 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499918023, time taken: 329359 microseconds
+[Randmoised Selection] - Median: 499918023, time taken: 8167 microseconds
+[Median of Medians] - Median: 499918023, time taken: 27201 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499535457, time taken: 327605 microseconds
+[Randmoised Selection] - Median: 499535457, time taken: 6739 microseconds
+[Median of Medians] - Median: 499535457, time taken: 27592 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500176209, time taken: 329493 microseconds
+[Randmoised Selection] - Median: 500176209, time taken: 7433 microseconds
+[Median of Medians] - Median: 500176209, time taken: 27173 microseconds
+--------------------------------------[Arrays of size 10000000]--------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500023801, time taken: 705111 microseconds
+[Randmoised Selection] - Median: 500023801, time taken: 20227 microseconds
+[Median of Medians] - Median: 500023801, time taken: 55375 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499902796, time taken: 665552 microseconds
+[Randmoised Selection] - Median: 499902796, time taken: 14871 microseconds
+[Median of Medians] - Median: 499902796, time taken: 55039 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499978948, time taken: 678232 microseconds
+[Randmoised Selection] - Median: 499978948, time taken: 12485 microseconds
+[Median of Medians] - Median: 499978948, time taken: 54773 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500011749, time taken: 684373 microseconds
+[Randmoised Selection] - Median: 500011749, time taken: 10845 microseconds
+[Median of Medians] - Median: 500011749, time taken: 56694 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500042983, time taken: 683591 microseconds
+[Randmoised Selection] - Median: 500042983, time taken: 13544 microseconds
+[Median of Medians] - Median: 500042983, time taken: 68065 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499988689, time taken: 688489 microseconds
+[Randmoised Selection] - Median: 499988689, time taken: 6828 microseconds
+[Median of Medians] - Median: 499988689, time taken: 74646 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500076103, time taken: 662397 microseconds
+[Randmoised Selection] - Median: 500076103, time taken: 16276 microseconds
+[Median of Medians] - Median: 500076103, time taken: 61107 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 499752161, time taken: 707882 microseconds
+[Randmoised Selection] - Median: 499752161, time taken: 8318 microseconds
+[Median of Medians] - Median: 499752161, time taken: 54350 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500064831, time taken: 696325 microseconds
+[Randmoised Selection] - Median: 500064831, time taken: 15937 microseconds
+[Median of Medians] - Median: 500064831, time taken: 54360 microseconds
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[Naive Median Finder] - Median: 500107620, time taken: 690777 microseconds
+[Randmoised Selection] - Median: 500107620, time taken: 16667 microseconds
+[Median of Medians] - Median: 500107620, time taken: 55487 microseconds
