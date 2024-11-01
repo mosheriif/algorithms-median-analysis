@@ -15,18 +15,14 @@ The repository contains the following files:
 ```plaintext
 algorithms-median-analysis
 ├── median-analysis
-│   ├── pom.xml                         # Maven build configuration
 │   └── src
-│       └── main
-│           └── java
-│               └── SourceFiles
-│                   ├── RandomisedSelect.java       # Randomized Divide-and-Conquer implementation 
-│                   ├── MedianOfMedians.java        # Deterministic Median-of-Medians implementation
-│                   ├── NaiveMedianFinder.java      # Sorting-based median finding (using native sort)
-│                   ├── RandomArrayGenerator.java   # Utility for generating random test arrays
-│                   ├── Partitioners.java           # Common partitioning logic for the algorithms
-│                   ├── MedianAnalysisTest.java     # Performance test for all algorithms
-│                   └── Main.java                   # Driver program for analysis
+│       ├── RandomisedSelect.java       # Randomized Divide-and-Conquer implementation 
+│       ├── MedianOfMedians.java        # Deterministic Median-of-Medians implementation
+│       ├── NaiveMedianFinder.java      # Sorting-based median finding (using native sort)
+│       ├── RandomArrayGenerator.java   # Utility for generating random test arrays
+│       ├── Partitioners.java           # Common partitioning logic for the algorithms
+│       ├── MedianAnalysisTest.java     # Performance test for all algorithms
+│       └── Main.java                   # Driver program for analysis
 ├── results-and-deliverables
 │   ├── Report.pdf                      # Final report with analysis results
 │   ├── Output.xlsx                     # Output data from the analysis
