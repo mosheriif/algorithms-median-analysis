@@ -43,19 +43,6 @@ algorithms-median-analysis
 
 The analysis measures each algorithm’s execution time as the input array size increases. Performance data is recorded at different input sizes up to 10 million elements, with multiple runs averaged to stabilize the measurements.
 
-## Usage
-
-To compile and run the code with Maven, follow these steps:
-
-1. **Compile the Project**:
-    ```bash
-    mvn compile
-    ```
-
-2. **Run the Main Program** (to perform performance analysis):
-    ```bash
-    mvn exec:java -Dexec.mainClass="Main"
-    ```
 
 ## Assumptions
 
