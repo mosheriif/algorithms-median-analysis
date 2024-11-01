@@ -1,5 +1,3 @@
-package SourceFiles;
-
 public class MedianAnalysisTest {
 
     private long startTime;

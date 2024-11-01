@@ -1,4 +1,3 @@
-package SourceFiles;
 import java.util.*;
 
 public class NaiveMedianFinder {

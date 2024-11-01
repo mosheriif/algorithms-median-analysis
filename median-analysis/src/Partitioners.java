@@ -1,4 +1,3 @@
-package SourceFiles;
 import java.util.*;
 
 public class Partitioners {
@@ -23,7 +22,7 @@ public class Partitioners {
 
         return (index + 1);
     }
-    
+
     public int randomisedPartition(int[] array, int start, int end)
     {
         Random random = new Random();

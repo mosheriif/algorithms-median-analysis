@@ -1,4 +1,3 @@
-package SourceFiles;
 import java.util.Arrays;
 
 public class MedianOfMedians {
@@ -13,7 +12,7 @@ public class MedianOfMedians {
         System.arraycopy(temp, 0, array, start, 5);
         return array;
     }
-    
+
     public int selection(int[] array, int start, int end, int ismallest) {
         while ((end - start + 1) % 5 != 0) {
             for (int i = start + 1; i <= end; i++) {
@@ -29,18 +28,18 @@ public class MedianOfMedians {
             start++;
             ismallest--;
         }
-        
+
         int numberOfGroups = (end - start + 1) / 5;
         for (int i = start; i <= end; i += 5) {
             array = partitionSorter(array, i);
         }
-        
+
         int pivot = selection(array, start + (2 * numberOfGroups), start + (3 * numberOfGroups) - 1, (numberOfGroups + 1) / 2);
         Partitioners partitioner = new Partitioners();
         int pivotIndex = partitioner.partitionAround(array, start, end, pivot);
-        
+
         int k = pivotIndex - start + 1;
-        
+
         if (ismallest == k) {
             return array[pivotIndex];
         } else if (ismallest < k) {

@@ -1,5 +1,3 @@
-package SourceFiles;
-
 public class RandomisedSelect {
 
     public int randomisedSelection(int[] array, int start, int end, int ismallest)

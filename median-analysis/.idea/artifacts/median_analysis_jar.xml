@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="median-analysis:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/median_analysis_jar</output-path>
+    <root id="archive" name="median-analysis.jar">
+      <element id="module-output" name="median-analysis" />
+      <element id="module-source" name="median-analysis" />
+    </root>
+  </artifact>
+</component>
